@@ -94,5 +94,3 @@ flowchart TD
     end
 ```
 ---
-
-<p align="center"><sub>⚠️ Dépôt volontairement sans IP publique, hostname externe, port forward ni secret.</sub></p>
