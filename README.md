@@ -71,12 +71,11 @@ Infrastructure **Ubiquiti UniFi** :
 
 ---
 
-## 🗺️ Schéma
 ## 🗺️ Schéma réseau
 
 ```mermaid
 flowchart TD
-    NET([🌐 Internet]) -->|Fibre 2.5G| BBOX[Bouygues Telecom]
+    NET([🌐 Internet]) -->|Fibre 2.5G| BBOX[BOX]
     LTE([📶 Backup 4G/LTE]) -. Failover .-> UDM
 
     BBOX -->|WAN · 2.5G · NAT| UDM[UDM SE<br/>Routeur · Pare-feu · Multi-WAN]
