@@ -45,6 +45,7 @@ Infrastructure **Ubiquiti UniFi** :
 - **Segmentation en VLAN** (prod / lab / IoT / invités…) avec filtrage inter-zones en moindre privilège
 - **Accès distant par VPN WireGuard** (léger, chiffrement moderne)
 - WAN fibre
+- WAN 4G
 
 ---
 
